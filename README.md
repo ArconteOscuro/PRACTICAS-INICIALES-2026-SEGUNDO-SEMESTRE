@@ -1,7 +1,3 @@
-\# Informe No. 1 – Mantenimiento e Infraestructura de Hardware
-
-
-
 \*\*Universidad de San Carlos de Guatemala\*\*  
 
 \*\*Facultad de Ingeniería - Escuela de Ciencias y Sistemas\*\*  
@@ -18,31 +14,13 @@
 
 \---
 
-
+\# Informe No. 1 – Mantenimiento e Infraestructura de Hardware
 
 \## 📽️ Video-Tutorial de Mantenimiento Avanzado
 
 \* \*\*Plataforma:\*\* YouTube
 
 \* \*\*Enlace al video:\*\* \[🔗 Haz clic aquí para ver el tutorial](https://youtu.be/BojN2dxOwkI)
-
-
-
-\---
-
-
-
-\## 📄 Documentación y Entregables (Generados con IA)
-
-En la carpeta `Documentación/` de este repositorio se encuentran los documentos técnicos solicitados:
-
-
-
-1\. \*\*\[Manual Técnico de Mantenimiento](Documentación/Manual\_Tecnico.pdf)\*\*
-
-2\. \*\*\[Trifoliar Informativo (Guía Rápida)](Documentación/Trifoliar\_Guia\_Rapida.pdf)\*\*
-
-3\. \*\*\[Documento de Auditoría de Prompts](Documentación/AuditoriaPrompts.pdf)\*\* \*(Contiene la ingeniería de instrucciones utilizada en Claude).\*
 
 
 
