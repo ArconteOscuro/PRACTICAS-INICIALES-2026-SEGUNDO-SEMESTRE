@@ -72,7 +72,15 @@
 
 \* \*\*Plataformas de Alojamiento:\*\* YouTube y OneDrive.
 
-\* \*\*Enlace al video:\*\* \[🔗 Pendiente de actualización]
+\* \*\*Enlace al video:\*\* 
+
+\* \[🔗 Ver en YouTube](https://youtu.be/FaP\_UlgMdAQ?si=jfE8s0EflFymYml9)
+
+\* \[🔗 Ver en OneDrive](https://1drv.ms/v/c/81110fff4ce69f1d/IQBeBB0pWE\_lQb5lkUtSY8gUAXNsDQxmj8cQfUULwf-Hrjk?e=0o6evH)
+
+
+
+
 
 
 
